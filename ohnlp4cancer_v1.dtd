@@ -1,0 +1,14 @@
+<!ENTITY name "OHNLP4Cancer">
+
+
+<!ELEMENT PrimaryCancerCondition  ( #PCDATA ) >
+<!ELEMENT Primary_Site ( #PCDATA ) >
+<!ELEMENT Laterality ( #PCDATA ) >
+<!ELEMENT HistologicalType ( #PCDATA ) >
+<!ELEMENT Behavior ( #PCDATA ) >
+<!ELEMENT HistologicGrade ( #PCDATA ) >
+<!ELEMENT T_Stage ( #PCDATA ) >
+<!ELEMENT N_Stage ( #PCDATA ) >
+<!ELEMENT M_Stage ( #PCDATA ) >
+
+ 
